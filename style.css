@@ -1,0 +1,55 @@
+img {
+    display: flex;
+    height: 250px;
+    width: 250px;
+}
+
+.content {
+    padding-left: 20px;
+}
+
+
+.rm-info {
+    font-size: 18px;
+}
+
+
+.card-container {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.title {
+    flex-basis: 100%;
+}
+
+h1, h2, h3 {
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+
+footer {
+    padding-bottom: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+footer {
+    padding-top: 200px;
+
+    text-align: center;
+}
+
+
+
+
