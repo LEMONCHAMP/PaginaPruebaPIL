@@ -1,7 +1,7 @@
 {
-  "name": "html-css-js",
+  "name": "html-css",
   "version": "1.0.0",
-  "description": "",
+  "description": "Web page programa PIL",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,5 +10,13 @@
   "license": "ISC",
   "devDependencies": {
     "bootstrap": "^5.2.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LEMONCHAMP/RickandmortyWiki.github.io.git"
+  },
+  "bugs": {
+    "url": "https://github.com/LEMONCHAMP/RickandmortyWiki.github.io/issues"
+  },
+  "homepage": "https://github.com/LEMONCHAMP/RickandmortyWiki.github.io#readme"
 }
